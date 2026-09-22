@@ -1,0 +1,34 @@
+{
+  "domain": "automotive-standards-impact",
+  "version": 1,
+  "sample_id": "092301-004",
+  "record_types": [
+    "法规版本",
+    "条款解释",
+    "系统需求",
+    "试验结论",
+    "会签意见",
+    "影响项目"
+  ],
+  "workflow_states": [
+    "草案",
+    "评议中",
+    "待会签",
+    "已采用",
+    "有豁免",
+    "已废止"
+  ],
+  "facts": [
+    "中德汽车行业合作覆盖电池、充电基础设施、智能制造和自动驾驶",
+    "业界提出强化标准法规协同",
+    "供应链韧性与绿色转型是合作关注点"
+  ],
+  "sample": {
+    "rule": "CHARGE-RULE-SAMPLE",
+    "jurisdictions": [
+      "CN",
+      "DE"
+    ],
+    "effective_window": "2027-Q1"
+  }
+}
